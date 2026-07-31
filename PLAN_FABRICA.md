@@ -39,7 +39,14 @@ Objetivo Específico 2: Reducir en un 25% el desperdicio de materia prima median
 
 
 **3. Metas Operativas y Procesos (Asignado a Colaborador)**
-
+Metas Operativas:
+-Optimizar el desempeño de la planta para alcanzar una producción eficiente.
+-Minimizar pérdidas de materia prima mediante un control adecuado  de los recursos.
+-Promover un ambiente de trabajo seguro y el cumplimiento de los procedimientos establecidos.
+Procesos:
+-Organización y abastecimiento de materiales en las diferentes áreas de trabajo.
+-Inspección y evaluación de la calidad durante las distintas etapas de producción. 
+--Fabricación y ensamblaje de los productos conforme a los procedimientos establecidos.
 
 
 
