@@ -8,15 +8,15 @@ Este documento contiene la planificación, objetivos y procesos necesarios para 
 
 \---
 
-**1. Objetivos Principales del Proyecto** 
+**1. Objetivos Principales del Proyecto**
 
 
 
-\* \*\*Objetivo General:\*\* Diseñar e implementar una línea de producción optimizada para la fabricación eficiente de productos.
+Objetivo General: Diseñar e implementar una línea de producción optimizada para la fabricación eficiente de productos.
 
-\* \*\*Objetivo Específico 1:\*\* Automatizar el 40% de los procesos de ensamblaje en los primeros 6 meses.
+Objetivo Específico 1: Automatizar el 40% de los procesos de ensamblaje en los primeros 6 meses.
 
-\* \*\*Objetivo Específico 2:\*\* Reducir en un 25% el desperdicio de materia prima mediante control de calidad.
+Objetivo Específico 2: Reducir en un 25% el desperdicio de materia prima mediante control de calidad.
 
 
 
